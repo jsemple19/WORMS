@@ -6,7 +6,7 @@
 #setwd("~/Documents/MeisterLab")
 setwd("/Volumes/izb_groups/Meister/Stock/WORMS")
 
-xlsxFile<-"WormStrainFrozenStocks_testing.xlsx"
+xlsxFile<-"WormStrainFrozenStocks.xlsx"
 
 # note readxl is much faster but gdata maintains format of columns with date much better, readxl
 # converts dates to number.
